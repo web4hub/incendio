@@ -130,7 +130,7 @@ Don't want the agent? The **Create cluster** form can also generate the configur
 
    If you use the Zabbly packages, `incus-ui-canonical` already sets `INCUS_UI=/opt/incus/ui`. You can extract Incendio there instead; hold the package (`sudo apt-mark hold incus-ui-canonical`) so upgrades don't overwrite it.
 
-4. Done. Open `https://<your-server>:8443/ui/` in your browser and log in.
+4. Done. Open `https://<102.89.46.161>:8443/ui/` in your browser and log in.
 
 To update, extract a newer release over the same directory and reload the page.
 
